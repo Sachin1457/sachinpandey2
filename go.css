@@ -1,0 +1,76 @@
+ * {
+    margin: 0;
+    padding: 0;
+    font-family: "popins", sans-serif;
+    box-sizing: border-box;
+  }
+  body {
+    background-image: url("po.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    color: black;
+  }
+  h1{
+    text-align: center;
+    margin-top: 40px;
+  }
+  
+  .registration-card{
+      margin: 0 auto;
+      margin-top: 50px;
+      height: 525px;
+      width: 400px;
+      margin-left: 20px;
+      background-color: rgb(169, 235, 235);
+      color: black;
+      background-color: linear-gradient(135 deg, green, #5b548a);
+      border-radius: 8px;
+  }
+  h2{
+      text-align: center;
+      padding-top: 20px;
+      padding-bottom: 10px;
+  }
+  label{
+      margin-left: 30px;
+      font-weight: bold;
+      font-size: 16px;
+  }
+  #firstname, #lastname,#email, #mobno, #password{
+      margin-left: 30px;
+      width: 80%;
+      padding: 7px;
+      margin-top: 3px;
+      margin-bottom: 7px;
+      border-radius: 5px;
+      border: none;
+  }
+  #country{
+      margin-top: 8px;
+  }
+  
+  button{
+      width: 80%;
+      margin-left: 30px;
+      height: 30px;
+      font-weight: bold;
+      background-color: aqua;
+  }
+  p{
+      margin-left: 30px;
+      margin-top: 8px;
+  }
+  p1{
+      margin-left: 120;
+      font-size: 20px;
+      font-weight: bold;
+      color: rgb(11, 26, 231);
+  }
+  
+  a{
+      text-decoration: none;
+      font-weight: bold;
+      color: #422ae2;
+  }

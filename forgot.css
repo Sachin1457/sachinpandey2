@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "popins", sans-serif;
+    box-sizing: border-box;
+  }
+  body {
+    background-image: url("images/dd.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    color: black;
+  }
+  h1{
+    text-align: center;
+    margin-top: 41px;
+    color: chartreuse;
+  }
+  button{
+    background-color: blue;
+    color: beige;
+  }
+  .id{
+    text-align: center;
+    margin-top: 100px ;
+  }
+  h3{
+    color: white;
+    margin-top: 90px;
+  }
